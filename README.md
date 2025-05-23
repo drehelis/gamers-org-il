@@ -4,3 +4,4 @@ Scraped of this piece of history from http://wayback.archive.org/ as the origina
 
 This history must be kept online and safe.
 
+## https://drehelis.github.io/gamers-org-il/
