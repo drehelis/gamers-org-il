@@ -1,0 +1,157 @@
+BODY {
+    background: #EFEFEF;
+    font: 11px Verdana;
+    color: black;
+
+    scrollbar-track-color: #000000;
+    scrollbar-face-color: #004883;
+    scrollbar-arrow-color: #BBCCDC;
+    scrollbar-base-color: lightblue;
+    scrollbar-shadow-color: #24A6D6;
+    scrollbar-highlight-color: #004478;
+}
+
+table {
+    font: 11px Verdana;
+    color: black;
+}
+
+#general {
+    font: 11px Verdana;
+    color: black;
+}
+
+a:link,
+a:visited,
+a:active,
+a:new {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#menutitle {
+    font: 12px Verdana;
+    color: white;
+    font-weight: bold;
+}
+
+#menutitle a:link,
+#menutitle a:visited,
+#menutitle a:active,
+#menutitle a:new {
+    color: white;
+    text-decoration: underline;
+}
+
+#menutitle a:hover {
+    text-decoration: none;
+}
+
+#tablesort {
+    font: 12px Verdana;
+    color: white;
+    font-weight: bold;
+    cursor: hand;
+}
+
+#title {
+    font: 23px Verdana;
+    color: #004A86;
+}
+
+#title a:link,
+#title a:visited,
+#title a:active,
+#title a:new {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+#title a:hover {
+    text-decoration: none;
+}
+
+#subtitle {
+    font: 15px Verdana;
+    color: black;
+    font-weight: bold;
+}
+
+#subtitle a:link,
+#subtitle a:visited,
+#subtitle a:active,
+#subtitle a:new {
+    color: black;
+    text-decoration: underline;
+}
+
+#subtitle a:hover {
+    text-decoration: none;
+}
+
+#newstitle {
+    font: 16px Verdana;
+    color: #004A86;
+    font-weight: bold;
+}
+
+#newstitle a:link,
+#newstitle a:visited,
+#newstitle a:active,
+#newstitle a:new {
+    color: #004A86;
+    text-decoration: underline;
+}
+
+#newstitle a:hover {
+    text-decoration: none;
+}
+
+#postedby {
+    font: 10px Verdana;
+    color: gray;
+}
+
+#postedby a:link,
+#postedby a:visited,
+#postedby a:active,
+#postedby a:new {
+    color: #222222;
+    text-decoration: underline;
+}
+
+#postedby a:hover {
+    text-decoration: none;
+}
+
+#userstatus {
+    font: 11px Verdana;
+    color: black;
+    font-weight: bold;
+}
+
+#userstatus a:link,
+#userstatus a:visited,
+#userstatus a:active,
+#userstatus a:new {
+    text-decoration: underline;
+}
+
+#userstatus a:hover {
+    text-decoration: none;
+}
+
+.box {
+    BACKGROUND-COLOR: #006ABB;
+    BORDER-BOTTOM: 1px solid;
+    BORDER-LEFT: 1px solid;
+    BORDER-RIGHT: 1px solid;
+    BORDER-TOP: 1px solid;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 11px
+}   
